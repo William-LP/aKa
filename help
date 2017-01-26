@@ -1,0 +1,15 @@
+aKa - as Know as (2017 Jan 26)
+
+usage: aKa [alias] [command]           create alias
+   or: aKa [arguments]                 read text from stdin
+
+Arguments:
+   [alias][command]	Add an alias automatic
+   -a  or  --add	Add an alias using prompt assistance
+   -a [alias]		Add specific alias
+   -r  or  --remove	Remove an alias
+   -r [alias]		Remove specific alias
+   -l  or  --list	List all aliases
+   -h  or  --help	Print Help (this message) and exit
+   --version		Print version information and exit
+
